@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>uild/author/</loc>
+    <loc>https://design-doctoral-consortium.github.io/author/</loc>
   </url><url>
-    <loc>uild/categories/</loc>
+    <loc>https://design-doctoral-consortium.github.io/categories/</loc>
   </url><url>
-    <loc>uild/</loc>
+    <loc>https://design-doctoral-consortium.github.io/</loc>
   </url><url>
-    <loc>uild/contact/</loc>
+    <loc>https://design-doctoral-consortium.github.io/contact/</loc>
   </url><url>
-    <loc>uild/tags/</loc>
+    <loc>https://design-doctoral-consortium.github.io/tags/</loc>
   </url>
 </urlset>
