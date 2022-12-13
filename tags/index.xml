@@ -5,6 +5,25 @@
     <link>/tags/</link>
     <description>Recent content in Tags on DDC 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBDate>Tue, 13 Dec 2022 11:32:24 +0600</lastBDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dates</title>
+      <link>/tags/dates/</link>
+      <pubDate>Tue, 13 Dec 2022 11:32:24 +0600</pubDate>
+      
+      <guid>/tags/dates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submission-format</title>
+      <link>/tags/submission-format/</link>
+      <pubDate>Tue, 13 Dec 2022 11:32:24 +0600</pubDate>
+      
+      <guid>/tags/submission-format/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

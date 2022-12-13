@@ -5,6 +5,16 @@
     <link>/categories/</link>
     <description>Recent content in Categories on DDC 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBDate>Tue, 13 Dec 2022 11:32:24 +0600</lastBDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updates</title>
+      <link>/categories/updates/</link>
+      <pubDate>Tue, 13 Dec 2022 11:32:24 +0600</pubDate>
+      
+      <guid>/categories/updates/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

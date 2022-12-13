@@ -5,6 +5,16 @@
     <link>/author/</link>
     <description>Recent content in Author on DDC 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBDate>Tue, 13 Dec 2022 11:32:24 +0600</lastBDate><atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDC</title>
+      <link>/author/ddc/</link>
+      <pubDate>Tue, 13 Dec 2022 11:32:24 +0600</pubDate>
+      
+      <guid>/author/ddc/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
