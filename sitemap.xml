@@ -2,44 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/author/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
+    <loc>uild/categories/</loc>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
+    <loc>uild/</loc>
   </url><url>
-    <loc>/blog/cfp/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/tags/dates/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/author/ddc/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/blog/important-dates/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/blog/submission/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/tags/submission-format/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/categories/updates/</loc>
-    <lastmod>2022-12-13T11:32:24+06:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-  </url><url>
-    <loc>/contact/</loc>
+    <loc>uild/tags/</loc>
   </url>
 </urlset>
