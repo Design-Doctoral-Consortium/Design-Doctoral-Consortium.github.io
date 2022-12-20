@@ -38,8 +38,8 @@ Author: uiCookies.com
 # -------------------------------------------------------------------*/
 
 body {
-    font-family:  Helvetica,Arial,sans-serif;
-    font-size   : 17px;
+    font-family:  DM Sans, serif;
+    font-size   : 20px;
     line-height : 1.7em;
     color       : #353e55;
     font-weight : 100;
@@ -129,14 +129,15 @@ p.lead {
 ul {
     margin     : 0;
     padding    : 0;
-    list-style : none;
+    list-style : square;
+    font-size: 20px;
     }
 
 /*Button Style*/
 .btn {
     padding        : 10px 30px;
     margin-bottom  : 0;
-    font-size      : 14px;
+    font-size      : 17px;
     border-radius  : 0;
     font-weight    : 500;
     border-width   : 2px;
@@ -535,7 +536,7 @@ button:focus,
 
 .section-committees .social-links li a {
     display   : block;
-    font-size : 12px;
+    font-size : 17px;
     color     : #ccc;
     padding   : 0 5px;
     }
